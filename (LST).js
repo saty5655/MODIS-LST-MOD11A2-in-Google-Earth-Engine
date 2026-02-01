@@ -1,8 +1,3 @@
-/*******************************
- MODIS LST Mean (India)
- Dataset: MODIS/061/MOD11A2
- Author: Mehmood Ahmad (adapted for India)
-********************************/
 
 // 1) Region of Interest (ROI) - India boundaries
 var countries = ee.FeatureCollection('USDOS/LSIB_SIMPLE/2017');
